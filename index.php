@@ -12,7 +12,7 @@
 	   echo "DNI: ".$dni."<br>";
 	   echo "Lletra NIF: ".$nif."<br>";
 	   echo "<br>";
-	   echo "Desenvolupador: el meu nom complet";
+	   echo "Desenvolupador: Esteve Cabrera";
 	}
 ?>
 </html>
